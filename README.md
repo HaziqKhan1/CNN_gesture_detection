@@ -33,5 +33,15 @@ Some of the test images, along with their predicted labels and true labels, can 
 
 # Real-time Inference
 You can use the trained model to make real-time predictions from a camera feed. The system processes each frame from the webcam, detects the hand gesture using MediaPipe, and classifies it using the CNN model.
+The image below shows an example where I used the webcam to predict the letter "A" in American Sign Language (ASL). The system successfully detects the hand gesture and classifies it as the letter "A" in real-time.
+
+![Camera Feed](a.png)
+
+
+
+
+
+
+
 
 
